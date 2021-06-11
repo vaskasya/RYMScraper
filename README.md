@@ -16,7 +16,7 @@ The --chart flag will prompt you to set the number of pages that should be searc
 
 For both commands, a GUI popup will ask what info should be saved to the file. 
 The output file is a file called "chartOut.csv" located wherever the script is ran. It is encoded in UTF-8, and comma delimited.
-It should be readable by default by Excel 2007 and later.
+It should be readable by default in Excel 2007 and later.
 
 ## Examples
 
