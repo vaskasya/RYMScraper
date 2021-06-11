@@ -1,5 +1,5 @@
 # RYMScraper
-A Python-based tool to scrape information about artists and chart releases from RateYourMusic.
+A Python-based tool to scrape information about artist and chart releases from RateYourMusic.
 
 ## Requirements
 
